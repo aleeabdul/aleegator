@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul Ali !
+- 👋 Hi, I’m Ali !
 - 👀 I’m interested in work relating the data science.
 - 🌱 I’m currently learning machine learning and analytics.
 - 💞️ I’m looking to collaborate on the projects involving AI, ML, data analysis and analytics.
